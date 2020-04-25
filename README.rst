@@ -26,5 +26,5 @@ Support
 If you have questions or requests or if you find any bugs, please use B3 forums to contact me at 
 http://www.bigbrotherbot.net/forums.
 
-**See Working at** http://config.bigbrotherbot.net
+**See Working at** http://statsgen.co.uk/b3-config-generator/
 **Author:** Freelander - freelander@bigbrotherbot.net - http://www.bigbrotherbot.net
